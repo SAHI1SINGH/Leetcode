@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 10 (Easy: 10, Medium: 0, Hard: 0)
+Solved: 11 (Easy: 11, Medium: 0, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -12,7 +12,8 @@ Solved: 10 (Easy: 10, Medium: 0, Hard: 0)
 | 104 | [Maximum Depth of Binary Tree](104-maximum-depth-of-binary-tree/) | Easy | 2026-10-03 |
 | 617 | [Merge Two Binary Trees](617-merge-two-binary-trees/) | Easy | 2026-10-03 |
 | 111 | [Minimum Depth of Binary Tree](111-minimum-depth-of-binary-tree/) | Easy | 2026-10-03 |
+| 112 | [Path Sum](112-path-sum/) | Easy | 2026-10-03 |
 | 572 | [Subtree of Another Tree](572-subtree-of-another-tree/) | Easy | 2026-10-03 |
 | 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-03 |
-| 112 | [Path Sum](112-path-sum/) | Easy | 2026-10-03 |
+| 257 | [Binary Tree Paths](257-binary-tree-paths/) | Easy | 2026-10-03 |
 <!-- LEETHUB:TABLE:END -->
