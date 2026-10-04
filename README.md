@@ -17,6 +17,6 @@ Solved: 14 (Easy: 14, Medium: 0, Hard: 0)
 | 100 | [Same Tree](100-same-tree/) | Easy | 2026-10-04 |
 | 572 | [Subtree of Another Tree](572-subtree-of-another-tree/) | Easy | 2026-10-04 |
 | 404 | [Sum of Left Leaves](404-sum-of-left-leaves/) | Easy | 2026-10-04 |
-| 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-04 |
 | 1022 | [Sum of Root To Leaf Binary Numbers](1022-sum-of-root-to-leaf-binary-numbers/) | Easy | 2026-10-04 |
+| 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-04 |
 <!-- LEETHUB:TABLE:END -->
