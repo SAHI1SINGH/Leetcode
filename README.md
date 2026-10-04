@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 15 (Easy: 14, Medium: 1, Hard: 0)
+Solved: 16 (Easy: 14, Medium: 2, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -18,6 +18,7 @@ Solved: 15 (Easy: 14, Medium: 1, Hard: 0)
 | 572 | [Subtree of Another Tree](572-subtree-of-another-tree/) | Easy | 2026-10-04 |
 | 404 | [Sum of Left Leaves](404-sum-of-left-leaves/) | Easy | 2026-10-04 |
 | 1022 | [Sum of Root To Leaf Binary Numbers](1022-sum-of-root-to-leaf-binary-numbers/) | Easy | 2026-10-04 |
-| 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-04 |
 | 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-04 |
+| 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-04 |
+| 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium | 2026-10-04 |
 <!-- LEETHUB:TABLE:END -->
