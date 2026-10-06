@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 19 (Easy: 14, Medium: 5, Hard: 0)
+Solved: 20 (Easy: 14, Medium: 6, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -16,6 +16,7 @@ Solved: 19 (Easy: 14, Medium: 5, Hard: 0)
 | 617 | [Merge Two Binary Trees](617-merge-two-binary-trees/) | Easy | 2026-10-06 |
 | 111 | [Minimum Depth of Binary Tree](111-minimum-depth-of-binary-tree/) | Easy | 2026-10-06 |
 | 112 | [Path Sum](112-path-sum/) | Easy | 2026-10-06 |
+| 113 | [Path Sum II](113-path-sum-ii/) | Medium | 2026-10-06 |
 | 100 | [Same Tree](100-same-tree/) | Easy | 2026-10-06 |
 | 572 | [Subtree of Another Tree](572-subtree-of-another-tree/) | Easy | 2026-10-06 |
 | 404 | [Sum of Left Leaves](404-sum-of-left-leaves/) | Easy | 2026-10-06 |
@@ -23,5 +24,5 @@ Solved: 19 (Easy: 14, Medium: 5, Hard: 0)
 | 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-06 |
 | 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-06 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-06 |
-| 113 | [Path Sum II](113-path-sum-ii/) | Medium | 2026-10-06 |
+| 988 | [Smallest String Starting From Leaf](988-smallest-string-starting-from-leaf/) | Medium | 2026-10-06 |
 <!-- LEETHUB:TABLE:END -->
