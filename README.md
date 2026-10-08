@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 25 (Easy: 15, Medium: 10, Hard: 0)
+Solved: 26 (Easy: 15, Medium: 11, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -14,6 +14,7 @@ Solved: 25 (Easy: 15, Medium: 10, Hard: 0)
 | 563 | [Binary Tree Tilt](563-binary-tree-tilt/) | Easy | 2026-10-08 |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium | 2026-10-08 |
 | 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree/) | Easy | 2026-10-08 |
+| 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-08 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-08 |
 | 104 | [Maximum Depth of Binary Tree](104-maximum-depth-of-binary-tree/) | Easy | 2026-10-08 |
 | 1026 | [Maximum Difference Between Node and Ancestor](1026-maximum-difference-between-node-and-ancestor/) | Medium | 2026-10-08 |
@@ -29,5 +30,5 @@ Solved: 25 (Easy: 15, Medium: 10, Hard: 0)
 | 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-08 |
 | 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-08 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-08 |
-| 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-08 |
+| 103 | [Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal/) | Medium | 2026-10-08 |
 <!-- LEETHUB:TABLE:END -->
