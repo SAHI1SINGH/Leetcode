@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 23 (Easy: 14, Medium: 9, Hard: 0)
+Solved: 24 (Easy: 15, Medium: 9, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -9,6 +9,7 @@ Solved: 23 (Easy: 14, Medium: 9, Hard: 0)
 | 102 | [Binary Tree Level Order Traversal](102-binary-tree-level-order-traversal/) | Medium | 2026-10-08 |
 | 107 | [Binary Tree Level Order Traversal II](107-binary-tree-level-order-traversal-ii/) | Medium | 2026-10-08 |
 | 257 | [Binary Tree Paths](257-binary-tree-paths/) | Easy | 2026-10-08 |
+| 199 | [Binary Tree Right Side View](199-binary-tree-right-side-view/) | Medium | 2026-10-08 |
 | 563 | [Binary Tree Tilt](563-binary-tree-tilt/) | Easy | 2026-10-08 |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium | 2026-10-08 |
 | 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree/) | Easy | 2026-10-08 |
@@ -27,5 +28,5 @@ Solved: 23 (Easy: 14, Medium: 9, Hard: 0)
 | 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-08 |
 | 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-08 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-08 |
-| 199 | [Binary Tree Right Side View](199-binary-tree-right-side-view/) | Medium | 2026-10-08 |
+| 637 | [Average of Levels in Binary Tree](637-average-of-levels-in-binary-tree/) | Easy | 2026-10-08 |
 <!-- LEETHUB:TABLE:END -->
