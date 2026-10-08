@@ -1,10 +1,11 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 24 (Easy: 15, Medium: 9, Hard: 0)
+Solved: 25 (Easy: 15, Medium: 10, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
+| 637 | [Average of Levels in Binary Tree](637-average-of-levels-in-binary-tree/) | Easy | 2026-10-08 |
 | 110 | [Balanced Binary Tree](110-balanced-binary-tree/) | Easy | 2026-10-08 |
 | 102 | [Binary Tree Level Order Traversal](102-binary-tree-level-order-traversal/) | Medium | 2026-10-08 |
 | 107 | [Binary Tree Level Order Traversal II](107-binary-tree-level-order-traversal-ii/) | Medium | 2026-10-08 |
@@ -28,5 +29,5 @@ Solved: 24 (Easy: 15, Medium: 9, Hard: 0)
 | 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-08 |
 | 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-08 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-08 |
-| 637 | [Average of Levels in Binary Tree](637-average-of-levels-in-binary-tree/) | Easy | 2026-10-08 |
+| 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-08 |
 <!-- LEETHUB:TABLE:END -->
