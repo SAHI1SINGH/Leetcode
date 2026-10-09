@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 27 (Easy: 15, Medium: 12, Hard: 0)
+Solved: 28 (Easy: 16, Medium: 12, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -19,6 +19,7 @@ Solved: 27 (Easy: 15, Medium: 12, Hard: 0)
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-09 |
 | 104 | [Maximum Depth of Binary Tree](104-maximum-depth-of-binary-tree/) | Easy | 2026-10-09 |
 | 1026 | [Maximum Difference Between Node and Ancestor](1026-maximum-difference-between-node-and-ancestor/) | Medium | 2026-10-09 |
+| 1161 | [Maximum Level Sum of a Binary Tree](1161-maximum-level-sum-of-a-binary-tree/) | Medium | 2026-10-09 |
 | 617 | [Merge Two Binary Trees](617-merge-two-binary-trees/) | Easy | 2026-10-09 |
 | 111 | [Minimum Depth of Binary Tree](111-minimum-depth-of-binary-tree/) | Easy | 2026-10-09 |
 | 112 | [Path Sum](112-path-sum/) | Easy | 2026-10-09 |
@@ -31,5 +32,5 @@ Solved: 27 (Easy: 15, Medium: 12, Hard: 0)
 | 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-09 |
 | 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-09 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-09 |
-| 1161 | [Maximum Level Sum of a Binary Tree](1161-maximum-level-sum-of-a-binary-tree/) | Medium | 2026-10-09 |
+| 993 | [Cousins in Binary Tree](993-cousins-in-binary-tree/) | Easy | 2026-10-09 |
 <!-- LEETHUB:TABLE:END -->
