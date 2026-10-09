@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 29 (Easy: 16, Medium: 13, Hard: 0)
+Solved: 30 (Easy: 16, Medium: 14, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -15,6 +15,7 @@ Solved: 29 (Easy: 16, Medium: 13, Hard: 0)
 | 103 | [Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal/) | Medium | 2026-10-09 |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium | 2026-10-09 |
 | 993 | [Cousins in Binary Tree](993-cousins-in-binary-tree/) | Easy | 2026-10-09 |
+| 1302 | [Deepest Leaves Sum](1302-deepest-leaves-sum/) | Medium | 2026-10-09 |
 | 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree/) | Easy | 2026-10-09 |
 | 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-09 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-09 |
@@ -33,5 +34,5 @@ Solved: 29 (Easy: 16, Medium: 13, Hard: 0)
 | 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-09 |
 | 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-09 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-09 |
-| 1302 | [Deepest Leaves Sum](1302-deepest-leaves-sum/) | Medium | 2026-10-09 |
+| 513 | [Find Bottom Left Tree Value](513-find-bottom-left-tree-value/) | Medium | 2026-10-09 |
 <!-- LEETHUB:TABLE:END -->
