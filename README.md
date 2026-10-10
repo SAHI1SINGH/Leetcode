@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 31 (Easy: 17, Medium: 14, Hard: 0)
+Solved: 32 (Easy: 17, Medium: 15, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -28,6 +28,7 @@ Solved: 31 (Easy: 17, Medium: 14, Hard: 0)
 | 112 | [Path Sum](112-path-sum/) | Easy | 2026-10-10 |
 | 113 | [Path Sum II](113-path-sum-ii/) | Medium | 2026-10-10 |
 | 100 | [Same Tree](100-same-tree/) | Easy | 2026-10-10 |
+| 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree/) | Easy | 2026-10-10 |
 | 988 | [Smallest String Starting From Leaf](988-smallest-string-starting-from-leaf/) | Medium | 2026-10-10 |
 | 572 | [Subtree of Another Tree](572-subtree-of-another-tree/) | Easy | 2026-10-10 |
 | 404 | [Sum of Left Leaves](404-sum-of-left-leaves/) | Easy | 2026-10-10 |
@@ -35,5 +36,5 @@ Solved: 31 (Easy: 17, Medium: 14, Hard: 0)
 | 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-10 |
 | 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-10 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-10 |
-| 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree/) | Easy | 2026-10-10 |
+| 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-10-10 |
 <!-- LEETHUB:TABLE:END -->
