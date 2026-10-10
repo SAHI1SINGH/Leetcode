@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 32 (Easy: 17, Medium: 15, Hard: 0)
+Solved: 33 (Easy: 18, Medium: 15, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -19,6 +19,7 @@ Solved: 32 (Easy: 17, Medium: 15, Hard: 0)
 | 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree/) | Easy | 2026-10-10 |
 | 513 | [Find Bottom Left Tree Value](513-find-bottom-left-tree-value/) | Medium | 2026-10-10 |
 | 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-10 |
+| 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-10-10 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-10 |
 | 104 | [Maximum Depth of Binary Tree](104-maximum-depth-of-binary-tree/) | Easy | 2026-10-10 |
 | 1026 | [Maximum Difference Between Node and Ancestor](1026-maximum-difference-between-node-and-ancestor/) | Medium | 2026-10-10 |
@@ -36,5 +37,5 @@ Solved: 32 (Easy: 17, Medium: 15, Hard: 0)
 | 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-10 |
 | 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-10 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-10 |
-| 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-10-10 |
+| 938 | [Range Sum of BST](938-range-sum-of-bst/) | Easy | 2026-10-10 |
 <!-- LEETHUB:TABLE:END -->
