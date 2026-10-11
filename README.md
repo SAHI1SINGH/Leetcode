@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 34 (Easy: 18, Medium: 16, Hard: 0)
+Solved: 35 (Easy: 19, Medium: 16, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -21,6 +21,7 @@ Solved: 34 (Easy: 18, Medium: 16, Hard: 0)
 | 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-11 |
 | 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-10-11 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-11 |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 2026-10-11 |
 | 104 | [Maximum Depth of Binary Tree](104-maximum-depth-of-binary-tree/) | Easy | 2026-10-11 |
 | 1026 | [Maximum Difference Between Node and Ancestor](1026-maximum-difference-between-node-and-ancestor/) | Medium | 2026-10-11 |
 | 1161 | [Maximum Level Sum of a Binary Tree](1161-maximum-level-sum-of-a-binary-tree/) | Medium | 2026-10-11 |
@@ -38,5 +39,5 @@ Solved: 34 (Easy: 18, Medium: 16, Hard: 0)
 | 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-11 |
 | 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-11 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-11 |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 2026-10-11 |
+| 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-10-11 |
 <!-- LEETHUB:TABLE:END -->
