@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 37 (Easy: 20, Medium: 17, Hard: 0)
+Solved: 38 (Easy: 20, Medium: 18, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -40,6 +40,7 @@ Solved: 37 (Easy: 20, Medium: 17, Hard: 0)
 | 1022 | [Sum of Root To Leaf Binary Numbers](1022-sum-of-root-to-leaf-binary-numbers/) | Easy | 2026-10-11 |
 | 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-11 |
 | 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-11 |
-| 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-11 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-11 |
+| 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-11 |
+| 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-11 |
 <!-- LEETHUB:TABLE:END -->
