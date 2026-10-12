@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 39 (Easy: 21, Medium: 18, Hard: 0)
+Solved: 40 (Easy: 21, Medium: 19, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -19,6 +19,7 @@ Solved: 39 (Easy: 21, Medium: 18, Hard: 0)
 | 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree/) | Easy | 2026-10-12 |
 | 513 | [Find Bottom Left Tree Value](513-find-bottom-left-tree-value/) | Medium | 2026-10-12 |
 | 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-12 |
+| 897 | [Increasing Order Search Tree](897-increasing-order-search-tree/) | Easy | 2026-10-12 |
 | 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-10-12 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-12 |
 | 230 | [Kth Smallest Element in a BST](230-kth-smallest-element-in-a-bst/) | Medium | 2026-10-12 |
@@ -43,5 +44,5 @@ Solved: 39 (Easy: 21, Medium: 18, Hard: 0)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-12 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-12 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-12 |
-| 897 | [Increasing Order Search Tree](897-increasing-order-search-tree/) | Easy | 2026-10-12 |
+| 450 | [Delete Node in a BST](450-delete-node-in-a-bst/) | Medium | 2026-10-12 |
 <!-- LEETHUB:TABLE:END -->
