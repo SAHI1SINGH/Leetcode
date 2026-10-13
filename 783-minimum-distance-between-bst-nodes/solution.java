@@ -1,4 +1,4 @@
-// 1 ms | 43.3 MB
+// 0 ms | 43.1 MB
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -15,21 +15,17 @@
  * }
  */
 class Solution {
+    Integer prev =null;
     int min =Integer.MAX_VALUE;
-    List<Integer> list =new LinkedList<>();
     public int minDiffInBST(TreeNode root) {
         inOrder(root);
-        for(int i =1;i<list.size();i++){
-            min =Math.min(min,(list.get(i)-list.get(i-1)));
-        }
         return min;
-        
     }
-
     public void inOrder(TreeNode root){
         if(root == null) return ;
         inOrder(root.left);
-        list.add(root.val);
+        if(prev !=null) min =Math.min(min, root.val-prev);
+        prev =root.val;
         inOrder(root.right);
     }
 }
