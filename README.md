@@ -31,6 +31,7 @@ Solved: 41 (Easy: 22, Medium: 19, Hard: 0)
 | 617 | [Merge Two Binary Trees](617-merge-two-binary-trees/) | Easy | 2026-10-13 |
 | 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-10-13 |
 | 111 | [Minimum Depth of Binary Tree](111-minimum-depth-of-binary-tree/) | Easy | 2026-10-13 |
+| 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-13 |
 | 112 | [Path Sum](112-path-sum/) | Easy | 2026-10-13 |
 | 113 | [Path Sum II](113-path-sum-ii/) | Medium | 2026-10-13 |
 | 938 | [Range Sum of BST](938-range-sum-of-bst/) | Easy | 2026-10-13 |
@@ -45,5 +46,4 @@ Solved: 41 (Easy: 22, Medium: 19, Hard: 0)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-13 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-13 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-13 |
-| 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-13 |
 <!-- LEETHUB:TABLE:END -->
