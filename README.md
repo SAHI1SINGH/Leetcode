@@ -6,6 +6,7 @@ Solved: 45 (Easy: 24, Medium: 21, Hard: 0)
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 637 | [Average of Levels in Binary Tree](637-average-of-levels-in-binary-tree/) | Easy | 2026-10-14 |
+| 1382 | [Balance a Binary Search Tree](1382-balance-a-binary-search-tree/) | Medium | 2026-10-14 |
 | 110 | [Balanced Binary Tree](110-balanced-binary-tree/) | Easy | 2026-10-14 |
 | 102 | [Binary Tree Level Order Traversal](102-binary-tree-level-order-traversal/) | Medium | 2026-10-14 |
 | 107 | [Binary Tree Level Order Traversal II](107-binary-tree-level-order-traversal-ii/) | Medium | 2026-10-14 |
@@ -49,5 +50,4 @@ Solved: 45 (Easy: 24, Medium: 21, Hard: 0)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-14 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-14 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-14 |
-| 1382 | [Balance a Binary Search Tree](1382-balance-a-binary-search-tree/) | Medium | 2026-10-14 |
 <!-- LEETHUB:TABLE:END -->
