@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 44 (Easy: 24, Medium: 20, Hard: 0)
+Solved: 45 (Easy: 24, Medium: 21, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -27,6 +27,7 @@ Solved: 44 (Easy: 24, Medium: 20, Hard: 0)
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-14 |
 | 230 | [Kth Smallest Element in a BST](230-kth-smallest-element-in-a-bst/) | Medium | 2026-10-14 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 2026-10-14 |
+| 654 | [Maximum Binary Tree](654-maximum-binary-tree/) | Medium | 2026-10-14 |
 | 104 | [Maximum Depth of Binary Tree](104-maximum-depth-of-binary-tree/) | Easy | 2026-10-14 |
 | 1026 | [Maximum Difference Between Node and Ancestor](1026-maximum-difference-between-node-and-ancestor/) | Medium | 2026-10-14 |
 | 1161 | [Maximum Level Sum of a Binary Tree](1161-maximum-level-sum-of-a-binary-tree/) | Medium | 2026-10-14 |
@@ -48,5 +49,5 @@ Solved: 44 (Easy: 24, Medium: 20, Hard: 0)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-14 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-14 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-14 |
-| 654 | [Maximum Binary Tree](654-maximum-binary-tree/) | Medium | 2026-10-14 |
+| 1382 | [Balance a Binary Search Tree](1382-balance-a-binary-search-tree/) | Medium | 2026-10-14 |
 <!-- LEETHUB:TABLE:END -->
