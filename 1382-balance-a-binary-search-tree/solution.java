@@ -1,4 +1,4 @@
-// 223 ms | 47.3 MB
+// 2 ms | 47.3 MB
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -15,7 +15,7 @@
  * }
  */
 class Solution {
-    List<Integer> list =new LinkedList<>();
+    List<Integer> list =new ArrayList<>();
     public TreeNode balanceBST(TreeNode root) {
         inorder(root);
         return build (0,list.size()-1);
