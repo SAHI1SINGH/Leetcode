@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 47 (Easy: 25, Medium: 22, Hard: 0)
+Solved: 48 (Easy: 25, Medium: 23, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -43,6 +43,7 @@ Solved: 47 (Easy: 25, Medium: 22, Hard: 0)
 | 100 | [Same Tree](100-same-tree/) | Easy | 2026-10-15 |
 | 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree/) | Easy | 2026-10-15 |
 | 988 | [Smallest String Starting From Leaf](988-smallest-string-starting-from-leaf/) | Medium | 2026-10-15 |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | 2026-10-15 |
 | 572 | [Subtree of Another Tree](572-subtree-of-another-tree/) | Easy | 2026-10-15 |
 | 404 | [Sum of Left Leaves](404-sum-of-left-leaves/) | Easy | 2026-10-15 |
 | 1022 | [Sum of Root To Leaf Binary Numbers](1022-sum-of-root-to-leaf-binary-numbers/) | Easy | 2026-10-15 |
@@ -51,5 +52,5 @@ Solved: 47 (Easy: 25, Medium: 22, Hard: 0)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-15 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-15 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-15 |
-| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | 2026-10-15 |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 2026-10-15 |
 <!-- LEETHUB:TABLE:END -->
