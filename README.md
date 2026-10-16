@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 51 (Easy: 25, Medium: 26, Hard: 0)
+Solved: 52 (Easy: 25, Medium: 27, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -21,6 +21,7 @@ Solved: 51 (Easy: 25, Medium: 26, Hard: 0)
 | 108 | [Convert Sorted Array to Binary Search Tree](108-convert-sorted-array-to-binary-search-tree/) | Easy | 2026-10-16 |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium | 2026-10-16 |
 | 993 | [Cousins in Binary Tree](993-cousins-in-binary-tree/) | Easy | 2026-10-16 |
+| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions/) | Medium | 2026-10-16 |
 | 1302 | [Deepest Leaves Sum](1302-deepest-leaves-sum/) | Medium | 2026-10-16 |
 | 450 | [Delete Node in a BST](450-delete-node-in-a-bst/) | Medium | 2026-10-16 |
 | 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree/) | Easy | 2026-10-16 |
@@ -55,5 +56,5 @@ Solved: 51 (Easy: 25, Medium: 26, Hard: 0)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-16 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-16 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-16 |
-| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions/) | Medium | 2026-10-16 |
+| 998 | [Maximum Binary Tree II](998-maximum-binary-tree-ii/) | Medium | 2026-10-16 |
 <!-- LEETHUB:TABLE:END -->
