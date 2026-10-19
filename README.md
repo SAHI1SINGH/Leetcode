@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 55 (Easy: 25, Medium: 29, Hard: 1)
+Solved: 56 (Easy: 25, Medium: 29, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -45,6 +45,7 @@ Solved: 55 (Easy: 25, Medium: 29, Hard: 1)
 | 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-19 |
 | 112 | [Path Sum](112-path-sum/) | Easy | 2026-10-19 |
 | 113 | [Path Sum II](113-path-sum-ii/) | Medium | 2026-10-19 |
+| 437 | [Path Sum III](437-path-sum-iii/) | Medium | 2026-10-19 |
 | 938 | [Range Sum of BST](938-range-sum-of-bst/) | Easy | 2026-10-19 |
 | 1028 | [Recover a Tree From Preorder Traversal](1028-recover-a-tree-from-preorder-traversal/) | Hard | 2026-10-19 |
 | 100 | [Same Tree](100-same-tree/) | Easy | 2026-10-19 |
@@ -59,5 +60,5 @@ Solved: 55 (Easy: 25, Medium: 29, Hard: 1)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-19 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-19 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-19 |
-| 437 | [Path Sum III](437-path-sum-iii/) | Medium | 2026-10-19 |
+| 124 | [Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum/) | Hard | 2026-10-19 |
 <!-- LEETHUB:TABLE:END -->
