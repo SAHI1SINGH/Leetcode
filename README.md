@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 57 (Easy: 25, Medium: 30, Hard: 2)
+Solved: 58 (Easy: 25, Medium: 31, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -62,4 +62,5 @@ Solved: 57 (Easy: 25, Medium: 30, Hard: 2)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-21 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-21 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-21 |
+| 508 | [Most Frequent Subtree Sum](508-most-frequent-subtree-sum/) | Medium | 2026-10-21 |
 <!-- LEETHUB:TABLE:END -->
