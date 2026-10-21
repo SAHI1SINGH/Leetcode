@@ -33,6 +33,7 @@ Solved: 57 (Easy: 25, Medium: 30, Hard: 2)
 | 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-10-21 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-21 |
 | 230 | [Kth Smallest Element in a BST](230-kth-smallest-element-in-a-bst/) | Medium | 2026-10-21 |
+| 687 | [Longest Univalue Path](687-longest-univalue-path/) | Medium | 2026-10-21 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 2026-10-21 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](236-lowest-common-ancestor-of-a-binary-tree/) | Medium | 2026-10-21 |
 | 654 | [Maximum Binary Tree](654-maximum-binary-tree/) | Medium | 2026-10-21 |
@@ -61,5 +62,4 @@ Solved: 57 (Easy: 25, Medium: 30, Hard: 2)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-21 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-21 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-21 |
-| 687 | [Longest Univalue Path](687-longest-univalue-path/) | Medium | 2026-10-21 |
 <!-- LEETHUB:TABLE:END -->
