@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 58 (Easy: 25, Medium: 31, Hard: 2)
+Solved: 59 (Easy: 25, Medium: 32, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -45,6 +45,7 @@ Solved: 58 (Easy: 25, Medium: 31, Hard: 2)
 | 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-10-21 |
 | 111 | [Minimum Depth of Binary Tree](111-minimum-depth-of-binary-tree/) | Easy | 2026-10-21 |
 | 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-21 |
+| 508 | [Most Frequent Subtree Sum](508-most-frequent-subtree-sum/) | Medium | 2026-10-21 |
 | 112 | [Path Sum](112-path-sum/) | Easy | 2026-10-21 |
 | 113 | [Path Sum II](113-path-sum-ii/) | Medium | 2026-10-21 |
 | 437 | [Path Sum III](437-path-sum-iii/) | Medium | 2026-10-21 |
@@ -62,5 +63,5 @@ Solved: 58 (Easy: 25, Medium: 31, Hard: 2)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-21 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-21 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-21 |
-| 508 | [Most Frequent Subtree Sum](508-most-frequent-subtree-sum/) | Medium | 2026-10-21 |
+| 1339 | [Maximum Product of Splitted Binary Tree](1339-maximum-product-of-splitted-binary-tree/) | Medium | 2026-10-21 |
 <!-- LEETHUB:TABLE:END -->
