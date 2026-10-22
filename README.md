@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 60 (Easy: 25, Medium: 33, Hard: 2)
+Solved: 61 (Easy: 25, Medium: 34, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -34,6 +34,7 @@ Solved: 60 (Easy: 25, Medium: 33, Hard: 2)
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-22 |
 | 230 | [Kth Smallest Element in a BST](230-kth-smallest-element-in-a-bst/) | Medium | 2026-10-22 |
 | 687 | [Longest Univalue Path](687-longest-univalue-path/) | Medium | 2026-10-22 |
+| 1372 | [Longest ZigZag Path in a Binary Tree](1372-longest-zigzag-path-in-a-binary-tree/) | Medium | 2026-10-22 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 2026-10-22 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](236-lowest-common-ancestor-of-a-binary-tree/) | Medium | 2026-10-22 |
 | 654 | [Maximum Binary Tree](654-maximum-binary-tree/) | Medium | 2026-10-22 |
@@ -64,5 +65,5 @@ Solved: 60 (Easy: 25, Medium: 33, Hard: 2)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-22 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-22 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-22 |
-| 1372 | [Longest ZigZag Path in a Binary Tree](1372-longest-zigzag-path-in-a-binary-tree/) | Medium | 2026-10-22 |
+| 979 | [Distribute Coins in Binary Tree](979-distribute-coins-in-binary-tree/) | Medium | 2026-10-22 |
 <!-- LEETHUB:TABLE:END -->
