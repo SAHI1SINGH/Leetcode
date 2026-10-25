@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 66 (Easy: 26, Medium: 35, Hard: 5)
+Solved: 67 (Easy: 26, Medium: 36, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -28,6 +28,7 @@ Solved: 66 (Easy: 26, Medium: 35, Hard: 5)
 | 450 | [Delete Node in a BST](450-delete-node-in-a-bst/) | Medium | 2026-10-25 |
 | 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree/) | Easy | 2026-10-25 |
 | 979 | [Distribute Coins in Binary Tree](979-distribute-coins-in-binary-tree/) | Medium | 2026-10-25 |
+| 2331 | [Evaluate Boolean Binary Tree](2331-evaluate-boolean-binary-tree/) | Easy | 2026-10-25 |
 | 513 | [Find Bottom Left Tree Value](513-find-bottom-left-tree-value/) | Medium | 2026-10-25 |
 | 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-25 |
 | 501 | [Find Mode in Binary Search Tree](501-find-mode-in-binary-search-tree/) | Easy | 2026-10-25 |
@@ -70,5 +71,5 @@ Solved: 66 (Easy: 26, Medium: 35, Hard: 5)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-25 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-25 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-25 |
-| 2331 | [Evaluate Boolean Binary Tree](2331-evaluate-boolean-binary-tree/) | Easy | 2026-10-25 |
+| 814 | [Binary Tree Pruning](814-binary-tree-pruning/) | Medium | 2026-10-25 |
 <!-- LEETHUB:TABLE:END -->
