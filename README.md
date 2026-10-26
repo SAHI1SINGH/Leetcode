@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 69 (Easy: 26, Medium: 38, Hard: 5)
+Solved: 70 (Easy: 27, Medium: 38, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -23,6 +23,7 @@ Solved: 69 (Easy: 26, Medium: 38, Hard: 5)
 | 889 | [Construct Binary Tree from Preorder and Postorder Traversal](889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | 2026-10-26 |
 | 108 | [Convert Sorted Array to Binary Search Tree](108-convert-sorted-array-to-binary-search-tree/) | Easy | 2026-10-26 |
 | 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium | 2026-10-26 |
+| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-26 |
 | 993 | [Cousins in Binary Tree](993-cousins-in-binary-tree/) | Easy | 2026-10-26 |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions/) | Medium | 2026-10-26 |
 | 1302 | [Deepest Leaves Sum](1302-deepest-leaves-sum/) | Medium | 2026-10-26 |
@@ -73,5 +74,5 @@ Solved: 69 (Easy: 26, Medium: 38, Hard: 5)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-26 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-26 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-26 |
-| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-26 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-26 |
 <!-- LEETHUB:TABLE:END -->
