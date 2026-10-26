@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 68 (Easy: 26, Medium: 37, Hard: 5)
+Solved: 69 (Easy: 26, Medium: 38, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -26,6 +26,7 @@ Solved: 68 (Easy: 26, Medium: 37, Hard: 5)
 | 993 | [Cousins in Binary Tree](993-cousins-in-binary-tree/) | Easy | 2026-10-26 |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions/) | Medium | 2026-10-26 |
 | 1302 | [Deepest Leaves Sum](1302-deepest-leaves-sum/) | Medium | 2026-10-26 |
+| 1325 | [Delete Leaves With a Given Value](1325-delete-leaves-with-a-given-value/) | Medium | 2026-10-26 |
 | 450 | [Delete Node in a BST](450-delete-node-in-a-bst/) | Medium | 2026-10-26 |
 | 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree/) | Easy | 2026-10-26 |
 | 979 | [Distribute Coins in Binary Tree](979-distribute-coins-in-binary-tree/) | Medium | 2026-10-26 |
@@ -72,5 +73,5 @@ Solved: 68 (Easy: 26, Medium: 37, Hard: 5)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-26 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-26 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-26 |
-| 1325 | [Delete Leaves With a Given Value](1325-delete-leaves-with-a-given-value/) | Medium | 2026-10-26 |
+| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-26 |
 <!-- LEETHUB:TABLE:END -->
