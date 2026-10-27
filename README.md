@@ -75,7 +75,7 @@ Solved: 73 (Easy: 29, Medium: 39, Hard: 5)
 | 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-27 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-27 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-27 |
+| 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-27 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-27 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-27 |
-| 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-27 |
 <!-- LEETHUB:TABLE:END -->
