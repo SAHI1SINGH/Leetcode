@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 72 (Easy: 28, Medium: 39, Hard: 5)
+Solved: 73 (Easy: 29, Medium: 39, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -26,6 +26,7 @@ Solved: 72 (Easy: 28, Medium: 39, Hard: 5)
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-27 |
 | 993 | [Cousins in Binary Tree](993-cousins-in-binary-tree/) | Easy | 2026-10-27 |
 | 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions/) | Medium | 2026-10-27 |
+| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/) | Easy | 2026-10-27 |
 | 1302 | [Deepest Leaves Sum](1302-deepest-leaves-sum/) | Medium | 2026-10-27 |
 | 1325 | [Delete Leaves With a Given Value](1325-delete-leaves-with-a-given-value/) | Medium | 2026-10-27 |
 | 450 | [Delete Node in a BST](450-delete-node-in-a-bst/) | Medium | 2026-10-27 |
@@ -76,5 +77,5 @@ Solved: 72 (Easy: 28, Medium: 39, Hard: 5)
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-27 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-27 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-27 |
-| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/) | Easy | 2026-10-27 |
+| 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-27 |
 <!-- LEETHUB:TABLE:END -->
