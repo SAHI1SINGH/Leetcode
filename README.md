@@ -1,81 +1,82 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 73 (Easy: 29, Medium: 39, Hard: 5)
+Solved: 74 (Easy: 30, Medium: 39, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
-| 637 | [Average of Levels in Binary Tree](637-average-of-levels-in-binary-tree/) | Easy | 2026-10-27 |
-| 1382 | [Balance a Binary Search Tree](1382-balance-a-binary-search-tree/) | Medium | 2026-10-27 |
-| 110 | [Balanced Binary Tree](110-balanced-binary-tree/) | Easy | 2026-10-27 |
-| 968 | [Binary Tree Cameras](968-binary-tree-cameras/) | Hard | 2026-10-27 |
-| 102 | [Binary Tree Level Order Traversal](102-binary-tree-level-order-traversal/) | Medium | 2026-10-27 |
-| 107 | [Binary Tree Level Order Traversal II](107-binary-tree-level-order-traversal-ii/) | Medium | 2026-10-27 |
-| 124 | [Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum/) | Hard | 2026-10-27 |
-| 257 | [Binary Tree Paths](257-binary-tree-paths/) | Easy | 2026-10-27 |
-| 814 | [Binary Tree Pruning](814-binary-tree-pruning/) | Medium | 2026-10-27 |
-| 199 | [Binary Tree Right Side View](199-binary-tree-right-side-view/) | Medium | 2026-10-27 |
-| 563 | [Binary Tree Tilt](563-binary-tree-tilt/) | Easy | 2026-10-27 |
-| 103 | [Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal/) | Medium | 2026-10-27 |
-| 1008 | [Construct Binary Search Tree from Preorder Traversal](1008-construct-binary-search-tree-from-preorder-traversal/) | Medium | 2026-10-27 |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | 2026-10-27 |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 2026-10-27 |
-| 889 | [Construct Binary Tree from Preorder and Postorder Traversal](889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | 2026-10-27 |
-| 108 | [Convert Sorted Array to Binary Search Tree](108-convert-sorted-array-to-binary-search-tree/) | Easy | 2026-10-27 |
-| 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium | 2026-10-27 |
-| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-27 |
-| 993 | [Cousins in Binary Tree](993-cousins-in-binary-tree/) | Easy | 2026-10-27 |
-| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions/) | Medium | 2026-10-27 |
-| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/) | Easy | 2026-10-27 |
-| 1302 | [Deepest Leaves Sum](1302-deepest-leaves-sum/) | Medium | 2026-10-27 |
-| 1325 | [Delete Leaves With a Given Value](1325-delete-leaves-with-a-given-value/) | Medium | 2026-10-27 |
-| 450 | [Delete Node in a BST](450-delete-node-in-a-bst/) | Medium | 2026-10-27 |
-| 1110 | [Delete Nodes And Return Forest](1110-delete-nodes-and-return-forest/) | Medium | 2026-10-27 |
-| 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree/) | Easy | 2026-10-27 |
-| 979 | [Distribute Coins in Binary Tree](979-distribute-coins-in-binary-tree/) | Medium | 2026-10-27 |
-| 2331 | [Evaluate Boolean Binary Tree](2331-evaluate-boolean-binary-tree/) | Easy | 2026-10-27 |
-| 513 | [Find Bottom Left Tree Value](513-find-bottom-left-tree-value/) | Medium | 2026-10-27 |
-| 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-27 |
-| 501 | [Find Mode in Binary Search Tree](501-find-mode-in-binary-search-tree/) | Easy | 2026-10-27 |
-| 897 | [Increasing Order Search Tree](897-increasing-order-search-tree/) | Easy | 2026-10-27 |
-| 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-10-27 |
-| 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-27 |
-| 230 | [Kth Smallest Element in a BST](230-kth-smallest-element-in-a-bst/) | Medium | 2026-10-27 |
-| 687 | [Longest Univalue Path](687-longest-univalue-path/) | Medium | 2026-10-27 |
-| 1372 | [Longest ZigZag Path in a Binary Tree](1372-longest-zigzag-path-in-a-binary-tree/) | Medium | 2026-10-27 |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 2026-10-27 |
-| 236 | [Lowest Common Ancestor of a Binary Tree](236-lowest-common-ancestor-of-a-binary-tree/) | Medium | 2026-10-27 |
-| 654 | [Maximum Binary Tree](654-maximum-binary-tree/) | Medium | 2026-10-27 |
-| 998 | [Maximum Binary Tree II](998-maximum-binary-tree-ii/) | Medium | 2026-10-27 |
-| 104 | [Maximum Depth of Binary Tree](104-maximum-depth-of-binary-tree/) | Easy | 2026-10-27 |
-| 1026 | [Maximum Difference Between Node and Ancestor](1026-maximum-difference-between-node-and-ancestor/) | Medium | 2026-10-27 |
-| 1161 | [Maximum Level Sum of a Binary Tree](1161-maximum-level-sum-of-a-binary-tree/) | Medium | 2026-10-27 |
-| 1339 | [Maximum Product of Splitted Binary Tree](1339-maximum-product-of-splitted-binary-tree/) | Medium | 2026-10-27 |
-| 1373 | [Maximum Sum BST in Binary Tree](1373-maximum-sum-bst-in-binary-tree/) | Hard | 2026-10-27 |
-| 617 | [Merge Two Binary Trees](617-merge-two-binary-trees/) | Easy | 2026-10-27 |
-| 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-10-27 |
-| 111 | [Minimum Depth of Binary Tree](111-minimum-depth-of-binary-tree/) | Easy | 2026-10-27 |
-| 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-27 |
-| 508 | [Most Frequent Subtree Sum](508-most-frequent-subtree-sum/) | Medium | 2026-10-27 |
-| 112 | [Path Sum](112-path-sum/) | Easy | 2026-10-27 |
-| 113 | [Path Sum II](113-path-sum-ii/) | Medium | 2026-10-27 |
-| 437 | [Path Sum III](437-path-sum-iii/) | Medium | 2026-10-27 |
-| 938 | [Range Sum of BST](938-range-sum-of-bst/) | Easy | 2026-10-27 |
-| 1028 | [Recover a Tree From Preorder Traversal](1028-recover-a-tree-from-preorder-traversal/) | Hard | 2026-10-27 |
-| 100 | [Same Tree](100-same-tree/) | Easy | 2026-10-27 |
-| 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree/) | Easy | 2026-10-27 |
-| 297 | [Serialize and Deserialize Binary Tree](297-serialize-and-deserialize-binary-tree/) | Hard | 2026-10-27 |
-| 988 | [Smallest String Starting From Leaf](988-smallest-string-starting-from-leaf/) | Medium | 2026-10-27 |
-| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | 2026-10-27 |
-| 572 | [Subtree of Another Tree](572-subtree-of-another-tree/) | Easy | 2026-10-27 |
-| 404 | [Sum of Left Leaves](404-sum-of-left-leaves/) | Easy | 2026-10-27 |
-| 1022 | [Sum of Root To Leaf Binary Numbers](1022-sum-of-root-to-leaf-binary-numbers/) | Easy | 2026-10-27 |
-| 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-27 |
-| 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-27 |
-| 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-27 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-27 |
-| 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-27 |
-| 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-27 |
-| 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-27 |
-| 79 | [Word Search](79-word-search/) | Medium | 2026-10-27 |
+| 637 | [Average of Levels in Binary Tree](637-average-of-levels-in-binary-tree/) | Easy | 2026-10-28 |
+| 1382 | [Balance a Binary Search Tree](1382-balance-a-binary-search-tree/) | Medium | 2026-10-28 |
+| 110 | [Balanced Binary Tree](110-balanced-binary-tree/) | Easy | 2026-10-28 |
+| 968 | [Binary Tree Cameras](968-binary-tree-cameras/) | Hard | 2026-10-28 |
+| 102 | [Binary Tree Level Order Traversal](102-binary-tree-level-order-traversal/) | Medium | 2026-10-28 |
+| 107 | [Binary Tree Level Order Traversal II](107-binary-tree-level-order-traversal-ii/) | Medium | 2026-10-28 |
+| 124 | [Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum/) | Hard | 2026-10-28 |
+| 257 | [Binary Tree Paths](257-binary-tree-paths/) | Easy | 2026-10-28 |
+| 814 | [Binary Tree Pruning](814-binary-tree-pruning/) | Medium | 2026-10-28 |
+| 199 | [Binary Tree Right Side View](199-binary-tree-right-side-view/) | Medium | 2026-10-28 |
+| 563 | [Binary Tree Tilt](563-binary-tree-tilt/) | Easy | 2026-10-28 |
+| 103 | [Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal/) | Medium | 2026-10-28 |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](1008-construct-binary-search-tree-from-preorder-traversal/) | Medium | 2026-10-28 |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | 2026-10-28 |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 2026-10-28 |
+| 889 | [Construct Binary Tree from Preorder and Postorder Traversal](889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | 2026-10-28 |
+| 108 | [Convert Sorted Array to Binary Search Tree](108-convert-sorted-array-to-binary-search-tree/) | Easy | 2026-10-28 |
+| 1448 | [Count Good Nodes in Binary Tree](1448-count-good-nodes-in-binary-tree/) | Medium | 2026-10-28 |
+| 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/) | Medium | 2026-10-28 |
+| 993 | [Cousins in Binary Tree](993-cousins-in-binary-tree/) | Easy | 2026-10-28 |
+| 2196 | [Create Binary Tree From Descriptions](2196-create-binary-tree-from-descriptions/) | Medium | 2026-10-28 |
+| 3963 | [Create Grid With Exactly One Path](3963-create-grid-with-exactly-one-path/) | Easy | 2026-10-28 |
+| 1302 | [Deepest Leaves Sum](1302-deepest-leaves-sum/) | Medium | 2026-10-28 |
+| 1325 | [Delete Leaves With a Given Value](1325-delete-leaves-with-a-given-value/) | Medium | 2026-10-28 |
+| 450 | [Delete Node in a BST](450-delete-node-in-a-bst/) | Medium | 2026-10-28 |
+| 1110 | [Delete Nodes And Return Forest](1110-delete-nodes-and-return-forest/) | Medium | 2026-10-28 |
+| 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree/) | Easy | 2026-10-28 |
+| 979 | [Distribute Coins in Binary Tree](979-distribute-coins-in-binary-tree/) | Medium | 2026-10-28 |
+| 2331 | [Evaluate Boolean Binary Tree](2331-evaluate-boolean-binary-tree/) | Easy | 2026-10-28 |
+| 513 | [Find Bottom Left Tree Value](513-find-bottom-left-tree-value/) | Medium | 2026-10-28 |
+| 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-10-28 |
+| 501 | [Find Mode in Binary Search Tree](501-find-mode-in-binary-search-tree/) | Easy | 2026-10-28 |
+| 897 | [Increasing Order Search Tree](897-increasing-order-search-tree/) | Easy | 2026-10-28 |
+| 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-10-28 |
+| 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-28 |
+| 230 | [Kth Smallest Element in a BST](230-kth-smallest-element-in-a-bst/) | Medium | 2026-10-28 |
+| 687 | [Longest Univalue Path](687-longest-univalue-path/) | Medium | 2026-10-28 |
+| 1372 | [Longest ZigZag Path in a Binary Tree](1372-longest-zigzag-path-in-a-binary-tree/) | Medium | 2026-10-28 |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 2026-10-28 |
+| 236 | [Lowest Common Ancestor of a Binary Tree](236-lowest-common-ancestor-of-a-binary-tree/) | Medium | 2026-10-28 |
+| 654 | [Maximum Binary Tree](654-maximum-binary-tree/) | Medium | 2026-10-28 |
+| 998 | [Maximum Binary Tree II](998-maximum-binary-tree-ii/) | Medium | 2026-10-28 |
+| 104 | [Maximum Depth of Binary Tree](104-maximum-depth-of-binary-tree/) | Easy | 2026-10-28 |
+| 1026 | [Maximum Difference Between Node and Ancestor](1026-maximum-difference-between-node-and-ancestor/) | Medium | 2026-10-28 |
+| 1161 | [Maximum Level Sum of a Binary Tree](1161-maximum-level-sum-of-a-binary-tree/) | Medium | 2026-10-28 |
+| 1339 | [Maximum Product of Splitted Binary Tree](1339-maximum-product-of-splitted-binary-tree/) | Medium | 2026-10-28 |
+| 1373 | [Maximum Sum BST in Binary Tree](1373-maximum-sum-bst-in-binary-tree/) | Hard | 2026-10-28 |
+| 617 | [Merge Two Binary Trees](617-merge-two-binary-trees/) | Easy | 2026-10-28 |
+| 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-10-28 |
+| 111 | [Minimum Depth of Binary Tree](111-minimum-depth-of-binary-tree/) | Easy | 2026-10-28 |
+| 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-28 |
+| 508 | [Most Frequent Subtree Sum](508-most-frequent-subtree-sum/) | Medium | 2026-10-28 |
+| 112 | [Path Sum](112-path-sum/) | Easy | 2026-10-28 |
+| 113 | [Path Sum II](113-path-sum-ii/) | Medium | 2026-10-28 |
+| 437 | [Path Sum III](437-path-sum-iii/) | Medium | 2026-10-28 |
+| 938 | [Range Sum of BST](938-range-sum-of-bst/) | Easy | 2026-10-28 |
+| 1028 | [Recover a Tree From Preorder Traversal](1028-recover-a-tree-from-preorder-traversal/) | Hard | 2026-10-28 |
+| 100 | [Same Tree](100-same-tree/) | Easy | 2026-10-28 |
+| 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree/) | Easy | 2026-10-28 |
+| 297 | [Serialize and Deserialize Binary Tree](297-serialize-and-deserialize-binary-tree/) | Hard | 2026-10-28 |
+| 988 | [Smallest String Starting From Leaf](988-smallest-string-starting-from-leaf/) | Medium | 2026-10-28 |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | 2026-10-28 |
+| 572 | [Subtree of Another Tree](572-subtree-of-another-tree/) | Easy | 2026-10-28 |
+| 404 | [Sum of Left Leaves](404-sum-of-left-leaves/) | Easy | 2026-10-28 |
+| 1022 | [Sum of Root To Leaf Binary Numbers](1022-sum-of-root-to-leaf-binary-numbers/) | Easy | 2026-10-28 |
+| 129 | [Sum Root to Leaf Numbers](129-sum-root-to-leaf-numbers/) | Medium | 2026-10-28 |
+| 101 | [Symmetric Tree](101-symmetric-tree/) | Easy | 2026-10-28 |
+| 669 | [Trim a Binary Search Tree](669-trim-a-binary-search-tree/) | Medium | 2026-10-28 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-28 |
+| 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-28 |
+| 965 | [Univalued Binary Tree](965-univalued-binary-tree/) | Easy | 2026-10-28 |
+| 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-28 |
+| 79 | [Word Search](79-word-search/) | Medium | 2026-10-28 |
+| 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-28 |
 <!-- LEETHUB:TABLE:END -->
