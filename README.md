@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 75 (Easy: 31, Medium: 39, Hard: 5)
+Solved: 76 (Easy: 32, Medium: 39, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -62,6 +62,7 @@ Solved: 75 (Easy: 31, Medium: 39, Hard: 5)
 | 437 | [Path Sum III](437-path-sum-iii/) | Medium | 2026-10-29 |
 | 938 | [Range Sum of BST](938-range-sum-of-bst/) | Easy | 2026-10-29 |
 | 1028 | [Recover a Tree From Preorder Traversal](1028-recover-a-tree-from-preorder-traversal/) | Hard | 2026-10-29 |
+| 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-29 |
 | 100 | [Same Tree](100-same-tree/) | Easy | 2026-10-29 |
 | 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree/) | Easy | 2026-10-29 |
 | 297 | [Serialize and Deserialize Binary Tree](297-serialize-and-deserialize-binary-tree/) | Hard | 2026-10-29 |
@@ -79,5 +80,5 @@ Solved: 75 (Easy: 31, Medium: 39, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-29 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-29 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-29 |
-| 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-29 |
+| 144 | [Binary Tree Preorder Traversal](144-binary-tree-preorder-traversal/) | Easy | 2026-10-29 |
 <!-- LEETHUB:TABLE:END -->
