@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 76 (Easy: 32, Medium: 39, Hard: 5)
+Solved: 77 (Easy: 33, Medium: 39, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -13,6 +13,7 @@ Solved: 76 (Easy: 32, Medium: 39, Hard: 5)
 | 107 | [Binary Tree Level Order Traversal II](107-binary-tree-level-order-traversal-ii/) | Medium | 2026-10-29 |
 | 124 | [Binary Tree Maximum Path Sum](124-binary-tree-maximum-path-sum/) | Hard | 2026-10-29 |
 | 257 | [Binary Tree Paths](257-binary-tree-paths/) | Easy | 2026-10-29 |
+| 144 | [Binary Tree Preorder Traversal](144-binary-tree-preorder-traversal/) | Easy | 2026-10-29 |
 | 814 | [Binary Tree Pruning](814-binary-tree-pruning/) | Medium | 2026-10-29 |
 | 199 | [Binary Tree Right Side View](199-binary-tree-right-side-view/) | Medium | 2026-10-29 |
 | 563 | [Binary Tree Tilt](563-binary-tree-tilt/) | Easy | 2026-10-29 |
@@ -80,5 +81,5 @@ Solved: 76 (Easy: 32, Medium: 39, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-29 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-29 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-29 |
-| 144 | [Binary Tree Preorder Traversal](144-binary-tree-preorder-traversal/) | Easy | 2026-10-29 |
+| 145 | [Binary Tree Postorder Traversal](145-binary-tree-postorder-traversal/) | Easy | 2026-10-29 |
 <!-- LEETHUB:TABLE:END -->
