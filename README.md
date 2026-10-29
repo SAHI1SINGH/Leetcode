@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 78 (Easy: 34, Medium: 39, Hard: 5)
+Solved: 79 (Easy: 35, Medium: 39, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -50,6 +50,7 @@ Solved: 78 (Easy: 34, Medium: 39, Hard: 5)
 | 654 | [Maximum Binary Tree](654-maximum-binary-tree/) | Medium | 2026-10-29 |
 | 998 | [Maximum Binary Tree II](998-maximum-binary-tree-ii/) | Medium | 2026-10-29 |
 | 104 | [Maximum Depth of Binary Tree](104-maximum-depth-of-binary-tree/) | Easy | 2026-10-29 |
+| 559 | [Maximum Depth of N-ary Tree](559-maximum-depth-of-n-ary-tree/) | Easy | 2026-10-29 |
 | 1026 | [Maximum Difference Between Node and Ancestor](1026-maximum-difference-between-node-and-ancestor/) | Medium | 2026-10-29 |
 | 1161 | [Maximum Level Sum of a Binary Tree](1161-maximum-level-sum-of-a-binary-tree/) | Medium | 2026-10-29 |
 | 1339 | [Maximum Product of Splitted Binary Tree](1339-maximum-product-of-splitted-binary-tree/) | Medium | 2026-10-29 |
@@ -82,5 +83,5 @@ Solved: 78 (Easy: 34, Medium: 39, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-29 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-29 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-29 |
-| 559 | [Maximum Depth of N-ary Tree](559-maximum-depth-of-n-ary-tree/) | Easy | 2026-10-29 |
+| 589 | [N-ary Tree Preorder Traversal](589-n-ary-tree-preorder-traversal/) | Easy | 2026-10-29 |
 <!-- LEETHUB:TABLE:END -->
