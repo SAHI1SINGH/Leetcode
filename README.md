@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 80 (Easy: 36, Medium: 39, Hard: 5)
+Solved: 81 (Easy: 37, Medium: 39, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -69,6 +69,7 @@ Solved: 80 (Easy: 36, Medium: 39, Hard: 5)
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-30 |
 | 100 | [Same Tree](100-same-tree/) | Easy | 2026-10-30 |
 | 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree/) | Easy | 2026-10-30 |
+| 671 | [Second Minimum Node In a Binary Tree](671-second-minimum-node-in-a-binary-tree/) | Easy | 2026-10-30 |
 | 297 | [Serialize and Deserialize Binary Tree](297-serialize-and-deserialize-binary-tree/) | Hard | 2026-10-30 |
 | 988 | [Smallest String Starting From Leaf](988-smallest-string-starting-from-leaf/) | Medium | 2026-10-30 |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | 2026-10-30 |
@@ -84,5 +85,5 @@ Solved: 80 (Easy: 36, Medium: 39, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-30 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-30 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-30 |
-| 671 | [Second Minimum Node In a Binary Tree](671-second-minimum-node-in-a-binary-tree/) | Easy | 2026-10-30 |
+| 872 | [Leaf-Similar Trees](872-leaf-similar-trees/) | Easy | 2026-10-30 |
 <!-- LEETHUB:TABLE:END -->
