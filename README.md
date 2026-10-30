@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 81 (Easy: 37, Medium: 39, Hard: 5)
+Solved: 82 (Easy: 38, Medium: 39, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -43,6 +43,7 @@ Solved: 81 (Easy: 37, Medium: 39, Hard: 5)
 | 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-10-30 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-10-30 |
 | 230 | [Kth Smallest Element in a BST](230-kth-smallest-element-in-a-bst/) | Medium | 2026-10-30 |
+| 872 | [Leaf-Similar Trees](872-leaf-similar-trees/) | Easy | 2026-10-30 |
 | 687 | [Longest Univalue Path](687-longest-univalue-path/) | Medium | 2026-10-30 |
 | 1372 | [Longest ZigZag Path in a Binary Tree](1372-longest-zigzag-path-in-a-binary-tree/) | Medium | 2026-10-30 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 2026-10-30 |
@@ -85,5 +86,5 @@ Solved: 81 (Easy: 37, Medium: 39, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-30 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-30 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-30 |
-| 872 | [Leaf-Similar Trees](872-leaf-similar-trees/) | Easy | 2026-10-30 |
+| 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/) | Easy | 2026-10-30 |
 <!-- LEETHUB:TABLE:END -->
