@@ -68,6 +68,7 @@ Solved: 82 (Easy: 38, Medium: 39, Hard: 5)
 | 938 | [Range Sum of BST](938-range-sum-of-bst/) | Easy | 2026-10-30 |
 | 1028 | [Recover a Tree From Preorder Traversal](1028-recover-a-tree-from-preorder-traversal/) | Hard | 2026-10-30 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-10-30 |
+| 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/) | Easy | 2026-10-30 |
 | 100 | [Same Tree](100-same-tree/) | Easy | 2026-10-30 |
 | 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree/) | Easy | 2026-10-30 |
 | 671 | [Second Minimum Node In a Binary Tree](671-second-minimum-node-in-a-binary-tree/) | Easy | 2026-10-30 |
@@ -86,5 +87,4 @@ Solved: 82 (Easy: 38, Medium: 39, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-10-30 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-30 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-10-30 |
-| 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/) | Easy | 2026-10-30 |
 <!-- LEETHUB:TABLE:END -->
