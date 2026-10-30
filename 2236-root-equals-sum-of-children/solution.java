@@ -1,4 +1,4 @@
-// 1 ms | 42.2 MB
+// 0 ms | 42.5 MB
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -15,24 +15,7 @@
  * }
  */
 class Solution {
-    List<Integer> list = new ArrayList<>();
     public boolean checkTree(TreeNode root) {
-        int sum=0;
-        dfs(root, list);
-        for(int num : list){
-            sum+=num;
-        }
-        if(sum == root.val) return true;
-
-        return false;
-    }
-    public void dfs(TreeNode node,List<Integer> list){
-        if(node == null) return ;
-        dfs(node.left,list);
-        if(node.left == null && node.right == null){
-            list.add(node.val);
-            return;
-        }
-        dfs(node.right,list);
+        return root.val == root.left.val + root.right.val;
     }
 }
