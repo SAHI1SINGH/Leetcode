@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 86 (Easy: 42, Medium: 39, Hard: 5)
+Solved: 87 (Easy: 43, Medium: 39, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -67,6 +67,7 @@ Solved: 86 (Easy: 42, Medium: 39, Hard: 5)
 | 112 | [Path Sum](112-path-sum/) | Easy | 2026-11-02 |
 | 113 | [Path Sum II](113-path-sum-ii/) | Medium | 2026-11-02 |
 | 437 | [Path Sum III](437-path-sum-iii/) | Medium | 2026-11-02 |
+| 66 | [Plus One](66-plus-one/) | Easy | 2026-11-02 |
 | 938 | [Range Sum of BST](938-range-sum-of-bst/) | Easy | 2026-11-02 |
 | 1028 | [Recover a Tree From Preorder Traversal](1028-recover-a-tree-from-preorder-traversal/) | Hard | 2026-11-02 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-02 |
@@ -90,5 +91,5 @@ Solved: 86 (Easy: 42, Medium: 39, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-02 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-02 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-02 |
-| 66 | [Plus One](66-plus-one/) | Easy | 2026-11-02 |
+| 136 | [Single Number](136-single-number/) | Easy | 2026-11-02 |
 <!-- LEETHUB:TABLE:END -->
