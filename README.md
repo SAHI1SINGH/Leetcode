@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 89 (Easy: 45, Medium: 39, Hard: 5)
+Solved: 90 (Easy: 45, Medium: 40, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -62,6 +62,7 @@ Solved: 89 (Easy: 45, Medium: 39, Hard: 5)
 | 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-11-05 |
 | 111 | [Minimum Depth of Binary Tree](111-minimum-depth-of-binary-tree/) | Easy | 2026-11-05 |
 | 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-11-05 |
+| 268 | [Missing Number](268-missing-number/) | Easy | 2026-11-05 |
 | 508 | [Most Frequent Subtree Sum](508-most-frequent-subtree-sum/) | Medium | 2026-11-05 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-11-05 |
 | 589 | [N-ary Tree Preorder Traversal](589-n-ary-tree-preorder-traversal/) | Easy | 2026-11-05 |
@@ -93,5 +94,5 @@ Solved: 89 (Easy: 45, Medium: 39, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-05 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-05 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-05 |
-| 268 | [Missing Number](268-missing-number/) | Easy | 2026-11-05 |
+| 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-11-05 |
 <!-- LEETHUB:TABLE:END -->
