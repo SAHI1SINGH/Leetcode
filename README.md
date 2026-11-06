@@ -1,13 +1,14 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 91 (Easy: 46, Medium: 40, Hard: 5)
+Solved: 92 (Easy: 47, Medium: 40, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 637 | [Average of Levels in Binary Tree](637-average-of-levels-in-binary-tree/) | Easy | 2026-11-06 |
 | 1382 | [Balance a Binary Search Tree](1382-balance-a-binary-search-tree/) | Medium | 2026-11-06 |
 | 110 | [Balanced Binary Tree](110-balanced-binary-tree/) | Easy | 2026-11-06 |
+| 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-11-06 |
 | 968 | [Binary Tree Cameras](968-binary-tree-cameras/) | Hard | 2026-11-06 |
 | 102 | [Binary Tree Level Order Traversal](102-binary-tree-level-order-traversal/) | Medium | 2026-11-06 |
 | 107 | [Binary Tree Level Order Traversal II](107-binary-tree-level-order-traversal-ii/) | Medium | 2026-11-06 |
@@ -95,5 +96,5 @@ Solved: 91 (Easy: 46, Medium: 40, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-06 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-06 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-06 |
-| 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-11-06 |
+| 1346 | [Check If N and Its Double Exist](1346-check-if-n-and-its-double-exist/) | Easy | 2026-11-06 |
 <!-- LEETHUB:TABLE:END -->
