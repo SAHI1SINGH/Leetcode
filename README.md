@@ -20,6 +20,7 @@ Solved: 92 (Easy: 47, Medium: 40, Hard: 5)
 | 199 | [Binary Tree Right Side View](199-binary-tree-right-side-view/) | Medium | 2026-11-06 |
 | 563 | [Binary Tree Tilt](563-binary-tree-tilt/) | Easy | 2026-11-06 |
 | 103 | [Binary Tree Zigzag Level Order Traversal](103-binary-tree-zigzag-level-order-traversal/) | Medium | 2026-11-06 |
+| 1346 | [Check If N and Its Double Exist](1346-check-if-n-and-its-double-exist/) | Easy | 2026-11-06 |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](1008-construct-binary-search-tree-from-preorder-traversal/) | Medium | 2026-11-06 |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | 2026-11-06 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 2026-11-06 |
@@ -96,5 +97,4 @@ Solved: 92 (Easy: 47, Medium: 40, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-06 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-06 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-06 |
-| 1346 | [Check If N and Its Double Exist](1346-check-if-n-and-its-double-exist/) | Easy | 2026-11-06 |
 <!-- LEETHUB:TABLE:END -->
