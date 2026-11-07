@@ -1,15 +1,20 @@
-// 6 ms | 44 MB
+// 1 ms | 43.8 MB
 class Solution {
-    int max = 0;
     public int maxProduct(int[] nums) {
-        for(int i =0;i< nums.length;i++){
-            for(int j=i+1;j<nums.length;j++){
-                int mul =((nums[i]-1)*(nums[j]-1));
-                if(mul>max){
-                    max = mul;
-                }
+
+        int max1 = 0;
+        int max2 = 0;
+
+        for (int num : nums) {
+
+            if (num > max1) {
+                max2 = max1;
+                max1 = num;
+            } else if (num > max2) {
+                max2 = num;
             }
         }
-        return max;
+
+        return (max1 - 1) * (max2 - 1);
     }
 }
