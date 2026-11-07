@@ -59,6 +59,7 @@ Solved: 93 (Easy: 48, Medium: 40, Hard: 5)
 | 1026 | [Maximum Difference Between Node and Ancestor](1026-maximum-difference-between-node-and-ancestor/) | Medium | 2026-11-07 |
 | 1161 | [Maximum Level Sum of a Binary Tree](1161-maximum-level-sum-of-a-binary-tree/) | Medium | 2026-11-07 |
 | 1339 | [Maximum Product of Splitted Binary Tree](1339-maximum-product-of-splitted-binary-tree/) | Medium | 2026-11-07 |
+| 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | Easy | 2026-11-07 |
 | 1373 | [Maximum Sum BST in Binary Tree](1373-maximum-sum-bst-in-binary-tree/) | Hard | 2026-11-07 |
 | 617 | [Merge Two Binary Trees](617-merge-two-binary-trees/) | Easy | 2026-11-07 |
 | 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-11-07 |
@@ -97,5 +98,4 @@ Solved: 93 (Easy: 48, Medium: 40, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-07 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-07 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-07 |
-| 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | Easy | 2026-11-07 |
 <!-- LEETHUB:TABLE:END -->
