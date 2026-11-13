@@ -42,6 +42,7 @@ Solved: 98 (Easy: 53, Medium: 40, Hard: 5)
 | 543 | [Diameter of Binary Tree](543-diameter-of-binary-tree/) | Easy | 2026-11-13 |
 | 979 | [Distribute Coins in Binary Tree](979-distribute-coins-in-binary-tree/) | Medium | 2026-11-13 |
 | 2331 | [Evaluate Boolean Binary Tree](2331-evaluate-boolean-binary-tree/) | Easy | 2026-11-13 |
+| 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/) | Easy | 2026-11-13 |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy | 2026-11-13 |
 | 513 | [Find Bottom Left Tree Value](513-find-bottom-left-tree-value/) | Medium | 2026-11-13 |
 | 515 | [Find Largest Value in Each Tree Row](515-find-largest-value-in-each-tree-row/) | Medium | 2026-11-13 |
@@ -102,5 +103,4 @@ Solved: 98 (Easy: 53, Medium: 40, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-13 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-13 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-13 |
-| 2011 | [Final Value of Variable After Performing Operations](2011-final-value-of-variable-after-performing-operations/) | Easy | 2026-11-13 |
 <!-- LEETHUB:TABLE:END -->
