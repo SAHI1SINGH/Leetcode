@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 98 (Easy: 53, Medium: 40, Hard: 5)
+Solved: 99 (Easy: 54, Medium: 40, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -103,4 +103,5 @@ Solved: 98 (Easy: 53, Medium: 40, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-13 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-13 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-13 |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy | 2026-11-13 |
 <!-- LEETHUB:TABLE:END -->
