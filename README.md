@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 101 (Easy: 56, Medium: 40, Hard: 5)
+Solved: 102 (Easy: 57, Medium: 40, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -53,6 +53,7 @@ Solved: 101 (Easy: 56, Medium: 40, Hard: 5)
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-11-14 |
 | 230 | [Kth Smallest Element in a BST](230-kth-smallest-element-in-a-bst/) | Medium | 2026-11-14 |
 | 872 | [Leaf-Similar Trees](872-leaf-similar-trees/) | Easy | 2026-11-14 |
+| 2574 | [Left and Right Sum Differences](2574-left-and-right-sum-differences/) | Easy | 2026-11-14 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 2026-11-14 |
 | 687 | [Longest Univalue Path](687-longest-univalue-path/) | Medium | 2026-11-14 |
 | 1372 | [Longest ZigZag Path in a Binary Tree](1372-longest-zigzag-path-in-a-binary-tree/) | Medium | 2026-11-14 |
@@ -105,5 +106,5 @@ Solved: 101 (Easy: 56, Medium: 40, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-14 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-14 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-14 |
-| 2574 | [Left and Right Sum Differences](2574-left-and-right-sum-differences/) | Easy | 2026-11-14 |
+| 1431 | [Kids With the Greatest Number of Candies](1431-kids-with-the-greatest-number-of-candies/) | Easy | 2026-11-14 |
 <!-- LEETHUB:TABLE:END -->
