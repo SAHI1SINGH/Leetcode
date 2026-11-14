@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 102 (Easy: 57, Medium: 40, Hard: 5)
+Solved: 103 (Easy: 58, Medium: 40, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -51,6 +51,7 @@ Solved: 102 (Easy: 57, Medium: 40, Hard: 5)
 | 897 | [Increasing Order Search Tree](897-increasing-order-search-tree/) | Easy | 2026-11-14 |
 | 701 | [Insert into a Binary Search Tree](701-insert-into-a-binary-search-tree/) | Medium | 2026-11-14 |
 | 226 | [Invert Binary Tree](226-invert-binary-tree/) | Easy | 2026-11-14 |
+| 1431 | [Kids With the Greatest Number of Candies](1431-kids-with-the-greatest-number-of-candies/) | Easy | 2026-11-14 |
 | 230 | [Kth Smallest Element in a BST](230-kth-smallest-element-in-a-bst/) | Medium | 2026-11-14 |
 | 872 | [Leaf-Similar Trees](872-leaf-similar-trees/) | Easy | 2026-11-14 |
 | 2574 | [Left and Right Sum Differences](2574-left-and-right-sum-differences/) | Easy | 2026-11-14 |
@@ -106,5 +107,5 @@ Solved: 102 (Easy: 57, Medium: 40, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-14 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-14 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-14 |
-| 1431 | [Kids With the Greatest Number of Candies](1431-kids-with-the-greatest-number-of-candies/) | Easy | 2026-11-14 |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/) | Easy | 2026-11-14 |
 <!-- LEETHUB:TABLE:END -->
