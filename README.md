@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 100 (Easy: 55, Medium: 40, Hard: 5)
+Solved: 101 (Easy: 56, Medium: 40, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -71,6 +71,7 @@ Solved: 100 (Easy: 55, Medium: 40, Hard: 5)
 | 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-11-14 |
 | 111 | [Minimum Depth of Binary Tree](111-minimum-depth-of-binary-tree/) | Easy | 2026-11-14 |
 | 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-11-14 |
+| 3364 | [Minimum Positive Sum Subarray ](3364-minimum-positive-sum-subarray/) | Easy | 2026-11-14 |
 | 268 | [Missing Number](268-missing-number/) | Easy | 2026-11-14 |
 | 508 | [Most Frequent Subtree Sum](508-most-frequent-subtree-sum/) | Medium | 2026-11-14 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-11-14 |
@@ -104,5 +105,5 @@ Solved: 100 (Easy: 55, Medium: 40, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-14 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-14 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-14 |
-| 3364 | [Minimum Positive Sum Subarray ](3364-minimum-positive-sum-subarray/) | Easy | 2026-11-14 |
+| 2574 | [Left and Right Sum Differences](2574-left-and-right-sum-differences/) | Easy | 2026-11-14 |
 <!-- LEETHUB:TABLE:END -->
