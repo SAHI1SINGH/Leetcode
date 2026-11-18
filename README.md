@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 109 (Easy: 59, Medium: 44, Hard: 5)
+Solved: 110 (Easy: 59, Medium: 44, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -91,6 +91,7 @@ Solved: 109 (Easy: 59, Medium: 44, Hard: 5)
 | 1028 | [Recover a Tree From Preorder Traversal](1028-recover-a-tree-from-preorder-traversal/) | Hard | 2026-11-18 |
 | 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-11-18 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-18 |
+| 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-11-18 |
 | 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/) | Easy | 2026-11-18 |
 | 100 | [Same Tree](100-same-tree/) | Easy | 2026-11-18 |
 | 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree/) | Easy | 2026-11-18 |
@@ -113,5 +114,5 @@ Solved: 109 (Easy: 59, Medium: 44, Hard: 5)
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-18 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-18 |
 |  | [zigzag-conversion](zigzag-conversion/) | Unknown | 2026-11-18 |
-| 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-11-18 |
+|  | [string-to-integer-atoi](string-to-integer-atoi/) | Unknown | 2026-11-18 |
 <!-- LEETHUB:TABLE:END -->
