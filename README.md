@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 108 (Easy: 59, Medium: 43, Hard: 5)
+Solved: 109 (Easy: 59, Medium: 44, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -113,4 +113,5 @@ Solved: 108 (Easy: 59, Medium: 43, Hard: 5)
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-18 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-18 |
 |  | [zigzag-conversion](zigzag-conversion/) | Unknown | 2026-11-18 |
+| 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-11-18 |
 <!-- LEETHUB:TABLE:END -->
