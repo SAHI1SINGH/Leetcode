@@ -1,10 +1,11 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 107 (Easy: 59, Medium: 43, Hard: 5)
+Solved: 108 (Easy: 59, Medium: 43, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
+| 2 | [Add Two Numbers](2-add-two-numbers/) | Medium | 2026-11-18 |
 | 637 | [Average of Levels in Binary Tree](637-average-of-levels-in-binary-tree/) | Easy | 2026-11-18 |
 | 1382 | [Balance a Binary Search Tree](1382-balance-a-binary-search-tree/) | Medium | 2026-11-18 |
 | 110 | [Balanced Binary Tree](110-balanced-binary-tree/) | Easy | 2026-11-18 |
@@ -111,5 +112,5 @@ Solved: 107 (Easy: 59, Medium: 43, Hard: 5)
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-11-18 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-18 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-18 |
-| 2 | [Add Two Numbers](2-add-two-numbers/) | Medium | 2026-11-18 |
+|  | [zigzag-conversion](zigzag-conversion/) | Unknown | 2026-11-18 |
 <!-- LEETHUB:TABLE:END -->
