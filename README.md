@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 111 (Easy: 60, Medium: 44, Hard: 5)
+Solved: 112 (Easy: 60, Medium: 44, Hard: 5)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -92,6 +92,7 @@ Solved: 111 (Easy: 60, Medium: 44, Hard: 5)
 | 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-11-24 |
 | 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-24 |
 | 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-11-24 |
+| 13 | [Roman to Integer](13-roman-to-integer/) | Easy | 2026-11-24 |
 | 2236 | [Root Equals Sum of Children](2236-root-equals-sum-of-children/) | Easy | 2026-11-24 |
 | 100 | [Same Tree](100-same-tree/) | Easy | 2026-11-24 |
 | 700 | [Search in a Binary Search Tree](700-search-in-a-binary-search-tree/) | Easy | 2026-11-24 |
@@ -115,5 +116,5 @@ Solved: 111 (Easy: 60, Medium: 44, Hard: 5)
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-11-24 |
 | 79 | [Word Search](79-word-search/) | Medium | 2026-11-24 |
 |  | [zigzag-conversion](zigzag-conversion/) | Unknown | 2026-11-24 |
-| 13 | [Roman to Integer](13-roman-to-integer/) | Easy | 2026-11-24 |
+|  | [integer-to-roman](integer-to-roman/) | Unknown | 2026-11-24 |
 <!-- LEETHUB:TABLE:END -->
